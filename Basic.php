@@ -159,7 +159,8 @@
   echo "<br>";
 
   echo "<h3>PHP Function</h3>";
-      function func() {
+      function func() 
+      {
           $nama = "Muhammad Rifan";
           echo "Hello, $nama";
       }
